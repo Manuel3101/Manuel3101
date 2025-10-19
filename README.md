@@ -11,7 +11,7 @@ My main experience is with JavaScript environments, especially Vue and Node.js.
 - **Honorable Mentions:** Java, PHP, Laravel, C++, MySQL, Postgresql
 - **Projects:**  
   - `wer-wird-millionär` (University project)
-
+  - `DaaS` A discord bot used to start game servers on a remote server
 ---
 
 I keep things simple and focus on building solutions that work.  
