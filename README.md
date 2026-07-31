@@ -9,6 +9,7 @@ I'm most proficient in Vue, Typescript and node.js. With non professional experi
 
 ## **Projects:**  
   - `wer-wird-millionär` (University project)
+    - Full simulated project with a team (Product owner, tech leads, developer, etc.)
     - Took the role of `Tech lead` and made technical decisions
     - Implemented register and login flows with Laravel and Blade templates
   - `DaaS` A discord bot used to start game servers on a remote server
